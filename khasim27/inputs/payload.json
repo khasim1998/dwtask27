@@ -1,0 +1,30 @@
+[
+    {
+        "ID": "A",
+        "name":"123",
+        "age": 30,
+        "car": null,
+        "bossID": "C"
+    },
+    {
+        "ID": "B",
+        "name":"345",
+        "age": 30,
+        "car": null,
+        "bossID": "D"
+    },
+    {
+        "ID": "C",
+        "name":"456",
+        "age": 30,
+        "car": null,
+        "bossID": "B"
+    },
+    {
+        "ID": "D",
+        "name":"789",
+        "age": 30,
+        "car": null,
+        "bossID": "C"
+    }
+]
